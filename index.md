@@ -7,8 +7,8 @@
     <li>Faculties</li>
     <ul>
       <li>Mohammad Nuruzzaman Bhuiyan, Acting Director & Assistant Professor</li>
-      <li>Md. Auhidur Rahman, Lecturer </li>
-      <li>Dipanita Saha, Lecturer </li>
+      <li>Md. Auhidur Rahman, Assistant Professor </li>
+      <li>Dipanita Saha, Assistant Professor </li>
       <li>Falguni Roy, Lecturer </li>
       <li>Dipok Chandra Das, Lecturer</li>
     </ul>
