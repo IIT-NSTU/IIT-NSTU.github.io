@@ -363,5 +363,5 @@
 {"day":28,"month":12,"year":2018,"color":"red","desc":"Nothing","week_day":5},
 {"day":29,"month":12,"year":2018,"color":"red","desc":"Nothing","week_day":6},
 {"day":30,"month":12,"year":2018,"color":"black","desc":"Nothing","week_day":0},
-{"day":31,"month":12,"year":2018,"color":"black","desc":"Nothing","week_day":1},
+{"day":31,"month":12,"year":2018,"color":"black","desc":"Nothing","week_day":1}
 ]}
