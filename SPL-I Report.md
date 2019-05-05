@@ -30,7 +30,7 @@
    </li></ul>
    <ul>
    <li>Collaborations
-	   <ul><li>#LOC addition, deletion for each project member</li></ul>
+	   <ul><li>#LOC addition, deletion by each project member</li></ul>
    </li></ul>
    <br/>
 <li>Software Project Deliverables</li>
