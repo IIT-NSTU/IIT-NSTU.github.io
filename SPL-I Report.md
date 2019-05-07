@@ -25,7 +25,7 @@
   <ul>
   <li>Design Level
 	    <ul><li>Package: #sub-packages, #of classes, #of interfaces, #of abstract classes</li>
-          <li>Class: #of public attributes, #of methods </li>
+          <li>Class: #of public attributes[static varible percentage], #of methods </li>
           <li>#methods per class</li></ul>
    </li></ul>
    <ul>
