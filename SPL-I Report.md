@@ -19,7 +19,7 @@
 <li>Software Project Metrics</li>
   <ul>
   <li>Code Level
-      <ul><li>LOC, NCLOC, CLOC, Density of Comments</li>
+      <ul><li>LOC, NCLOC, CLOC, Density of Comments[CLOC/LOC]</li>
       <li>Average LOC in a class</li></ul>
   </li></ul>
   <ul>
