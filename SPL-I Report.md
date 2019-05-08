@@ -5,7 +5,7 @@
   <li>Story</li>
   <li>Requirements</li> 
   <li>Proposed Process Model</li>
-  <li>Project Team</li>
+  <li>Project Team (Including Team Hierarchy)</li>
   <li>Proposed Timeline and Actual Timeline</li>
   <li>Requirements Traceability Matrix</li>
   <li>Tools
