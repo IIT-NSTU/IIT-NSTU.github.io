@@ -2,8 +2,8 @@
   {  "id"=5,
   "rank"=4,
   "name"="Dipok Chandra Das",
-  "dp"="",
-  "mobile"=,
+  "dp"="https://raw.githubusercontent.com/IIT-NSTU/IIT-NSTU.github.io/master/dp_dipok.jpg",
+  "mobile"="01711111111",
   "email"="dipok.iit.nstu@gmail.com",
   "desc"="",
    "status"=""
