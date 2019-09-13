@@ -1,0 +1,11 @@
+{"faculties": 
+  {  "id"=5,
+  "rank"=4,
+  "name"="Dipok Chandra Das",
+  "dp"="",
+  "mobile"=,
+  "email"="dipok.iit.nstu@gmail.com",
+  "desc"="",
+   "status"=""
+}
+}
