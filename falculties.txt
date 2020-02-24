@@ -2,7 +2,7 @@
   {  "id"=5,
   "rank"=4,
   "name"="",
-  "dp"="https://raw.githubusercontent.com/IIT-NSTU/IIT-NSTU.github.io/master/dp_dipok.jpg",
+  "dp"="",
   "mobile"="01711111111",
   "email"="",
   "desc"="",
