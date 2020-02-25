@@ -4,6 +4,11 @@ In support of mission and Vision, The Institute of Information Technology (IIT) 
 # Programs
 ## BSSE
 Bachelor of Science in Software Engineering
+### Software Project Labs
+<a href="https://github.com/IIT-NSTU/">Github Organization: IIT-NSTU</a><br/>
+<a href="https://iit-nstu.github.io/spl-guidance/">SPL Guidance</a>
+#### SPL-I
+#### SPL-II
 ## PGDIT
 Post Graduation Diploma in Information Technology
 ## Training Programs
