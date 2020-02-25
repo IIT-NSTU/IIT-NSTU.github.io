@@ -3,29 +3,30 @@
   </head>
   <h1>Institute of Information Technology, Noakhali Science and Technology University</h1>
   <p>In support of mission and Vision, The Institute of Information Technology (IIT) faculty engages in scholarship and research that advances the software engineering profession and enhances software engineering education. In addition to traditional funding avenues, activities will include collaboration with industry, both to transfer research results into practice and to determine those industrial problems most suitable for further software engineering research. We have active research in empirical software engineering in areas of software architecture, software security, mining of software repositories and Cyber Security Analysis. Faculties are also working in accessibility and software process for computational science and engineering. An emerging area of research for the institute big data analysis for software engineering and software engineering for big data and Internet of Things(IoT).</p>
+<ul>
+  <li>Faculties</li>
   <ul>
-    <li>Faculties</li>
-    <ul>
-    <pre>
-      Director: 
-        name:Md. Auhidur Rahman
-        status: Acting
-        designation: Assistant Professor
-      Assistant Professors:
-        - Mohammad Nuruzzaman Bhuiyan:
+  <pre>
+  Director: 
+       name: Md. Auhidur Rahman
+       status: Acting
+       designation: Assistant Professor
+  Assistant Professors:
+     - Mohammad Nuruzzaman Bhuiyan:
           status: on Study Leave
-        - Dipanita Saha:
+     - Dipanita Saha:
           status: Active
-        - Falguni Roy:
+     - Falguni Roy:
           status: Active
-      Lecturers:
-        - Dipok Chandra Das:
+  Lecturers:
+     - Dipok Chandra Das:
           status: Active
-        - Md. Iftekhar Alam Efat:
+     - Md. Iftekhar Alam Efat:
           status: Active
-        - Tasniya Ahmed:
+     - Tasniya Ahmed:
           status: on Maternity Leave 
-      </pre>
+    
+  </pre>
     </ul>
   </ul>
   <p>For more details, <b>Contact Us</b>:</p>
