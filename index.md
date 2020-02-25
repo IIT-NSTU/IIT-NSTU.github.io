@@ -3,7 +3,9 @@ In support of mission and Vision, The Institute of Information Technology (IIT) 
   
 # Programs
 ## BSSE
+Bachelor of Science in Software Engineering
 ## PGDIT
+Post Graduation Diploma in Information Technology
 ## Training Programs
 
 # Faculties
