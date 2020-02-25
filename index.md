@@ -6,11 +6,26 @@
   <ul>
     <li>Faculties</li>
     <ul>
-      <li>Mohammad Nuruzzaman Bhuiyan, Acting Director & Assistant Professor</li>
-      <li>Md. Auhidur Rahman, Assistant Professor </li>
-      <li>Dipanita Saha, Assistant Professor </li>
-      <li>Falguni Roy, Lecturer </li>
-      <li>Dipok Chandra Das, Lecturer</li>
+    <pre>
+      Director: 
+        name:Md. Auhidur Rahman
+        status: Acting
+        designation: Assistant Professor
+      Assistant Professors:
+        - Mohammad Nuruzzaman Bhuiyan:
+          status: on Study Leave
+        - Dipanita Saha:
+          status: Active
+        - Falguni Roy:
+          status: Active
+      Lecturers:
+        - Dipok Chandra Das:
+          status: Active
+        - Md. Iftekhar Alam Efat:
+          status: Active
+        - Tasniya Ahmed:
+          status: on Maternity Leave 
+      </pre>
     </ul>
   </ul>
   <p>For more details, <b>Contact Us</b>:</p>
