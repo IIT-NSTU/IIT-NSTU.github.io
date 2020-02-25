@@ -10,22 +10,22 @@ In support of mission and Vision, The Institute of Information Technology (IIT) 
 
 <pre>
 Director: 
-       name: Md. Auhidur Rahman
+       name: <a href="https://nstu.edu.bd/faculty-member/md-auhidur-rahman-jwm575">Md. Auhidur Rahman</a>
        status: Acting
        designation: Assistant Professor
 Assistant Professors:
-     - Mohammad Nuruzzaman Bhuiyan:
+     - <a href="https://nstu.edu.bd/faculty-member/md-nuruzzaman-bhuyian-uq0234">Mohammad Nuruzzaman Bhuiyan</a>:
           status: on Study Leave
-     - Dipanita Saha:
+     - <a href="https://nstu.edu.bd/faculty-member/dipanita-saha-tlj120">Dipanita Saha</a>:
           status: Active
-     - Falguni Roy:
+     - <a href="https://nstu.edu.bd/faculty-member/falguni-roy-bew885">Falguni Roy</a>:
           status: Active
 Lecturers:
-     - Dipok Chandra Das:
+     - <a href="https://nstu.edu.bd/faculty-member/dipok-chandra-das-vzs829">Dipok Chandra Das</a>:
           status: Active
-     - Md. Iftekhar Alam Efat:
+     - <a href="https://nstu.edu.bd/faculty-member/tasniya-ahmed-2nd636">Md. Iftekhar Alam Efat</a>:
           status: Active
-     - Tasniya Ahmed:
+     - <a href="https://nstu.edu.bd/faculty-member/md-iftekharul-alam-efat-dad688">Tasniya Ahmed</a>:
           status: on Maternity Leave 
     
 </pre>
