@@ -4,7 +4,7 @@ In support of mission and Vision, The Institute of Information Technology (IIT) 
 # Programs
 ## BSSE
 ## PGDIT
-## Short Course
+## Training Programs
 
 # Faculties
 
