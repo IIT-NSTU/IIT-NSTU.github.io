@@ -33,7 +33,7 @@ Lecturers:
      - <a href="https://nstu.edu.bd/faculty-member/tasniya-ahmed-2nd636">Md. Iftekhar Alam Efat</a>:
           status: Active
      - <a href="https://nstu.edu.bd/faculty-member/md-iftekharul-alam-efat-dad688">Tasniya Ahmed</a>:
-          status: on Maternity Leave 
+          status: Active 
     
 </pre>
 
